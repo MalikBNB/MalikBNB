@@ -1,5 +1,7 @@
 # 🏄‍♂️ Aymen Abdelmalik BOUNAB
 
+**`Digital Craftsman (Developer)`**
+
 I am an Engineer, highly motivated, results-driven full-stack developer. I am very passionate about solving business owners problems and turning mind stories into real life projects.
 
 In September 2023, I started my journey of learning software development and after 8 months of hard work and dedication, i got my first job. I have learned the basics using **C++**, and then i choose to work with .Net ecosystem so i took online courses in **C#**, **.Net Framework**, **ADO.Net**, **SqlServer**, **Ef Core**, **.Net Core**, **ASP.Net**, **RESTfull APIs** ...and more.
