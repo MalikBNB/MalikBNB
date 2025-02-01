@@ -10,9 +10,7 @@ In September 2023, I started learning software development, i have learned the b
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,,,js,html,css,tailwind,vue,visualstudio,vscode,github&perline=5)](https://skillicons.dev)
 
 #
 
