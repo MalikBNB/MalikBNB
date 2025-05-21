@@ -12,7 +12,7 @@ In September 2023, I started my journey of learning software development and aft
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,js,html,css,tailwind,vue,visualstudio,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,js,ts,html,css,tailwind,angular,visualstudio,vscode,github)](https://skillicons.dev)
 
 #
 
